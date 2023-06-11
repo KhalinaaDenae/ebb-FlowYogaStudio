@@ -63,10 +63,9 @@ header .logo {
     font-size: 2.5rem;
 }
 .navbar ul a:hover {
-    color: 
-#111111;
-    text-decoration: underline overline;
-    text-decoration-thickness: 3px;
+    color: #514D49;
+    text-decoration: underline 
+  
 }
 
 .close-nav {
@@ -84,6 +83,7 @@ rgba(0, 0, 0, 0.2);
     border-radius: 3px;
     color: 
 #444444;
+z-index: 2;
 }
 .close-nav button:hover {
     color: 

@@ -113,12 +113,7 @@
 .hide-text{
     display: none;
 }
-.div2, .div3{
+.div2, .div3, .div1{
     display: none;
-}
-.div1{
-    width: 150px;
-    height: 150px;
-    padding: 5px;
 }
 }
